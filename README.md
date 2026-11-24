@@ -23,7 +23,6 @@ An end-to-end **Logic Built-In Self-Test (LBIST)** hardware system based on the 
 ## Repository Structure
 
 ```text
-├── RTL/                 # Synthesizable HDL design modules (ALU, Scan DFF, PRPG, Phase Shifter, MISR, Controller)
-├── TB/                  # Self-checking simulation testbenches & fault-injection verification
+├── RTL/                 # Synthesizable HDL design modules (ALU, Scan DFF, PRPG, Phase Shifter, MISR, Controller, TB)
 ├── FPGA/                # Quartus Prime project files, pin assignments, and SDC timing constraints
 └── docs/                # Block diagrams, waveforms, and hardware verification photos
