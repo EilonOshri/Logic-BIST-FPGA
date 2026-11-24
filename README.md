@@ -6,7 +6,9 @@ An end-to-end **Logic Built-In Self-Test (LBIST)** hardware system based on the 
 
 ## Architecture Overview
 
-![STUMPS LBIST Architecture](docs/Block%20diagram.drawio.png)
+<p align="center">
+  <img src="docs/Block%20diagram.drawio.png" alt="STUMPS LBIST Architecture" width="450">
+</p>
 
 ### Core Subsystems
 * **PRPG (16-bit LFSR):** Generates deterministic pseudo-random test patterns using a maximal-length primitive polynomial.
